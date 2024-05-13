@@ -50,9 +50,9 @@ Sun, 26 Mar 2023 13:31:56 +0000
 - `Sender Name:`
 Tinder
 - `Sender Email Address:`
-gq@80-78-255-128.cloudvps.regruhosting.ru
+gq[@]80-78-255-128[.]cloudvps[.]regruhosting[.]ru
 - `Reply-to Email Address:`
-gq@80-78-255-128.cloudvps.regruhosting.ru
+gq[@]80-78-255-128[.]cloudvps[.]regruhosting[.]ru
 - `Brand Impersonated:`
 Tinder
 - `Defanged IP Address:`
