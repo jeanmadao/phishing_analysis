@@ -23,14 +23,26 @@ This is not a phishing email.
 
 ## email_2.eml
 - `Timestamp:`
+Mon, 12 Dec 2022 09:56:36 +0100
 - `Sender Name:`
+noreply
 - `Sender Email Address:`
+stainless@midnightmagicevents.com
 - `Reply-to Email Address:`
+stainless@midnightmagicevents.com
 - `Brand Impersonated:`
+Trust Wallet
 - `Defanged IP Address:`
+85[.]209[.]134[.]107
 - `Defanged Domain of Interest:`
+midnightmagicevents[.]com
 - `Defanged shortened URL:`
+no shortened URL
 - `Phishing Email ?:`
+Mail about crypto is already a red flag, especially if you
+have never invested in it. The email address is doesn't seem
+to be related to Trust Wallet, and neither are the links in the
+email. It is a phishing email.
 
 ## email_3.eml
 - `Timestamp:`
