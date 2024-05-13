@@ -27,17 +27,17 @@ Mon, 12 Dec 2022 09:56:36 +0100
 - `Sender Name:`
 noreply
 - `Sender Email Address:`
-stainless@midnightmagicevents.com
+stainless[@]midnightmagicevents[.]com
 - `Reply-to Email Address:`
-stainless@midnightmagicevents.com
+stainless[@]midnightmagicevents[.]com
 - `Brand Impersonated:`
 Trust Wallet
 - `Defanged IP Address:`
 85[.]209[.]134[.]107
 - `Defanged Domain of Interest:`
-midnightmagicevents[.]com
+climovil[.]com
 - `Defanged shortened URL:`
-no shortened URL
+No shortened URL
 - `Phishing Email ?:`
 Mail about crypto is already a red flag, especially if you
 have never invested in it. The email address is doesn't seem
@@ -46,33 +46,67 @@ email. It is a phishing email.
 
 ## email_3.eml
 - `Timestamp:`
+Sun, 26 Mar 2023 13:31:56 +0000
 - `Sender Name:`
+Tinder
 - `Sender Email Address:`
+gq@80-78-255-128.cloudvps.regruhosting.ru
 - `Reply-to Email Address:`
+gq@80-78-255-128.cloudvps.regruhosting.ru
 - `Brand Impersonated:`
+Tinder
 - `Defanged IP Address:`
+80[.]78[.]255[.]128
 - `Defanged Domain of Interest:`
+blog[.]tulingxueyuan[.]cn
 - `Defanged shortened URL:`
+No shortened URL
 - `Phishing Email ?:`
+Definitely a Phishing email. Name is not matching with the
+Email address, which has a Russian domain. The link in the 
+email, not only it is not directing to Tinder, but it is
+directing to a Chinese website.
 
 ## email_4.eml
 - `Timestamp:`
+Fri, 3 Mar 2023 12:44:01 +0100
 - `Sender Name:`
+Dr. Dan Miller
 - `Sender Email Address:`
+babakingsouthmichael[@]gmail[.]com
 - `Reply-to Email Address:`
+imorourafiatou0[@]gmail[.]com
 - `Brand Impersonated:`
+United Nations
 - `Defanged IP Address:`
+209[.]85[.]220[.]41
 - `Defanged Domain of Interest:`
+No domain of interest
 - `Defanged shortened URL:`
+No shortened URL
 - `Phishing Email ?:`
+Yes yes yes yes yes yes yes yes yes yes yes.
 
 ## email_5.eml
 - `Timestamp:`
 - `Sender Name:`
+Ariana
 - `Sender Email Address:`
+newsmail[@]app9l[.]serenitepure[.]fr
 - `Reply-to Email Address:`
+news[@]aichakandisha[.]com
 - `Brand Impersonated:`
+They are no even trying
 - `Defanged IP Address:`
+51[.]83[.]34[.]109
 - `Defanged Domain of Interest:`
+serenitepure[.]fr
 - `Defanged shortened URL:`
+No shortened URL
 - `Phishing Email ?:`
+Yes yes yes yes yes yes yes yes yes yes yes
+yes yes yes yes yes yes yes yes yes yes yes
+yes yes yes yes yes yes yes yes yes yes yes
+yes yes yes yes yes yes yes yes yes yes yes
+yes yes yes yes yes yes yes yes yes yes yes
+yes yes yes yes yes yes yes yes yes yes yes
